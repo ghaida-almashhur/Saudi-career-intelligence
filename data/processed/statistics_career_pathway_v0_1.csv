@@ -1,0 +1,6 @@
+﻿major,target_role,fit_level,official_evidence,development_direction
+Statistics,Data Analyst,Strong,Explicit official program eligibility + official statistical-analysis family role,"Start with data analysis, cleaning, visualization, SQL/database concepts"
+Statistics,Data Scientist,Strong,Official Statistical Analysis and Interpretation family role,"Add machine learning, advanced modelling and programming"
+Statistics,Business Analyst,Adjacent,Official Business Analysis family is on the same career pathway map,"Add requirements analysis, business context and stakeholder communication"
+Statistics,Business Analytics Specialist,Adjacent,Official Business Analysis family is on the same career pathway map,"Add business analytics, forecasting and decision support"
+Statistics,Data Engineer,Adjacent,Official Data Collection and Management family is on the same career pathway map,"Add databases, data engineering and warehousing"

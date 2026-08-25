@@ -1,0 +1,11 @@
+﻿official_family,role_en,career_stage,evidence_scope
+Statistical Analysis and Interpretation,Data Analyst,entry_to_mid,official_family_role
+Statistical Analysis and Interpretation,Data Scientist,entry_to_mid,official_family_role
+Statistical Analysis and Interpretation,Data and Insights Manager,management,official_family_role
+Statistical Analysis and Interpretation,Head of Data Analytics,leadership,official_family_role
+Business Analysis,Business Analyst,entry_to_mid,official_adjacent_family_role
+Business Analysis,Business Analytics Specialist,entry_to_mid,official_adjacent_family_role
+Business Analysis,Business Analytics Manager,management,official_adjacent_family_role
+Data Collection and Management,Data Analyst,entry_to_mid,official_adjacent_family_role
+Data Collection and Management,Data Engineer,entry_to_mid,official_adjacent_family_role
+Data Collection and Management,Big Data Specialist,entry_to_mid,official_adjacent_family_role

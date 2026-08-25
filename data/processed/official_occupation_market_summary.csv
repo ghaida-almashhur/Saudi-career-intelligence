@@ -1,0 +1,8 @@
+﻿official_occupation_code,official_occupation_ar,official_occupation_en,official_family,evidence_type,recent_postings,recent_vacancies,recent_cities,recent_employers,detailed_postings,detailed_vacancies,entry_level_postings,zero_exp_postings,median_salary_sar,detailed_cities,detailed_employers,entry_level_share_pct
+212004,محلل بيانات,Data Analyst,Data & AI,official_occupation,6.0,55.0,4.0,6.0,1.0,4.0,1.0,1.0,800.0,1.0,1.0,100.0
+242117,أخصائي ذكاء أعمال,Business Intelligence Specialist,Data & AI,official_occupation,,,,,1.0,4.0,1.0,1.0,800.0,1.0,1.0,100.0
+252907,أخصائي تنقيب بيانات,Data Mining Specialist,Data & AI,official_occupation,,,,,,,,,,,,
+252908,أخصائي بيانات ضخمة,Big Data Specialist,Data & AI,official_occupation,2.0,2.0,2.0,2.0,1.0,1.0,1.0,0.0,7500.0,1.0,1.0,100.0
+252909,أخصائي علوم بيانات,Data Science Specialist,Data & AI,official_occupation,3.0,3.0,2.0,3.0,,,,,,,,
+252103,محلل قاعدة بيانات,Database Analyst,Data & AI,official_occupation,,,,,,,,,,,,
+252102,أخصائي إدارة قواعد بيانات,Database Administration Specialist,Data & AI,official_occupation,3.0,3.0,2.0,2.0,,,,,,,,
